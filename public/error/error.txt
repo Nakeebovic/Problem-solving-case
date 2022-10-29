@@ -1,0 +1,192 @@
+{
+        Exception_Date:Thu Oct 27 2022 16:30:36 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:31:06 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:33:00 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:33:36 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:36:49 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:36:49 GMT+0200 (Eastern European Standard Time)
+        Exception_Message:	firstFile.toString(...).replaceAll is not a function
+        Exception_StackTrace:TypeError: firstFile.toString(...).replaceAll is not a function
+    at Object.module.exports [as saveFiles] (E:\code challange\app\helpers\saveFiles.js:23:36)
+    at E:\code challange\app\controllers\challange\createController.js:29:28
+    at Parser.<anonymous> (E:\code challange\node_modules\csv-parse\dist\cjs\index.cjs:1379:7)
+    at Parser.emit (events.js:400:28)
+    at endReadableNT (internal/streams/readable.js:1333:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:39:54 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:40:40 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:41:14 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:41:42 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:41:54 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:43:41 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:44:03 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:46:50 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:48:25 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:48:43 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:49:21 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:49:58 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:33:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:52:29 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:34:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Thu Oct 27 2022 16:52:35 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:34:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
+{
+        Exception_Date:Fri Oct 28 2022 21:00:27 GMT+0200 (Eastern European Standard Time)
+        Client_ip:::1
+        Exception_Message:	arr is not defined
+        Exception_StackTrace:ReferenceError: arr is not defined
+    at create (E:\code challange\app\controllers\challange\createController.js:34:43)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      }
+      ------------------------------------------------
